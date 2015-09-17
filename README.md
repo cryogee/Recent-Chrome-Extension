@@ -5,4 +5,4 @@ This extension will apply the 'Past Year' filter to all your google search resul
 
 How to use:
 
-Just search as you would normally. Thee extension will filter the results for 'Past year'. If you want to see results for all times then you can easily change it using the filter in results page.
+Just search as you would normally. The extension will filter the results for 'Past year'. If you want to see results for all times then you can easily change it using the filter in results page.
